@@ -2,4 +2,4 @@
 
 Support website for the Simple Time Tracker iOS app.
 
-Visit: https://davidrhb.github.io/simpletimetracker-support 
+Visit: https://davidrhb.github.io/simpletimeactivitytracker-support/
